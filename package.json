@@ -1,0 +1,16 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run logintest",
+    "logintest": "node Tests/loginTest.js"
+  },
+  "author": "Valerie",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "C:\\Users\\user\\Desktop\\chromedriver\\chromedriver.exe",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
